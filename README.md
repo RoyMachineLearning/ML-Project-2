@@ -1,4 +1,3 @@
-# Canadian Banking Business case
 
 Business Context:
 
