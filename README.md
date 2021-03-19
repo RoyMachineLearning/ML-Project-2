@@ -1,4 +1,4 @@
-# Scotia-Business-Case
+# Canadian Banking Business case
 
 Business Context:
 
